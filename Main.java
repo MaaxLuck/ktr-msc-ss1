@@ -4,5 +4,7 @@ public class Main {
         Character mage = new Mage("Robert");
         warrior.attack("hammer");
         mage.attack("magic");
+        warrior.moveLeft();
+        mage.moveForward();
     }
 }
