@@ -61,6 +61,6 @@ public abstract class Character {
     }
 
     public void attack(String weapon){
-        System.out.println(this.name + ": Rrrrrrrrr ....");
+        System.out.println(this.name + ": Rrrrrrrrr....");
     }
 }
